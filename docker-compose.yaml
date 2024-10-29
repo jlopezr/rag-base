@@ -1,0 +1,5 @@
+name: rag-base
+
+include:
+  - weviate-compose.yaml
+  - opik-compose.yaml
